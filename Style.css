@@ -1,0 +1,118 @@
+.header{
+
+	padding:40px;
+	background-color: orange;
+	
+}
+.logo{
+
+	display: inline-block;
+	vertical-align: center;
+	width: 100px;
+	height: 31px;
+
+
+}
+.navbar{
+	display: inline-block;
+}
+.navigation-li{
+	display: inline-block;
+	margin-left: 10px;
+	font-family: BPG Nino Mtavruli;
+	font-weight: bold;
+	font-size: 29px;
+
+}
+.navigation-a{
+	color: blue;
+
+}
+.navigation-a span{
+	color: red;
+
+}
+.tarigi{
+	color: white;
+	background-color: blue;
+	display: inline-block;
+	font-family: BPG Nino Mtavruli;
+	font-size: 46px;
+	padding: 6px;
+	margin-top: 40px;
+	margin-left: 30px;
+
+
+}
+
+.maisi{
+	color: blue;
+	margin-left: 30px;
+	margin-top: 8px;
+	font-size: 24px;
+	font-family: BPG Nino Mtavruli;
+
+}
+.satauri{
+	font-family: BPG Nino Mtavruli;
+	font-size: 26px;
+	margin-top: 28px;
+	margin-bottom: 23px;
+	margin-left: 30px;
+
+}
+.image{
+	height: 210px;
+	width: 270px;
+	margin-left: 30px;
+	margin-right: 39px;
+	margin-bottom: 180px;
+
+
+}
+.text{
+	font-family: BPG Nino Mtavruli;
+	font-size: 21px;
+
+
+}
+
+.footer{
+	
+	
+	position: absolute; 
+   bottom:0;
+   width:100%;
+   height:40px;
+   background-color: grey;
+	
+}
+
+.fb{
+	width: 14px;
+	height: 30px;
+	margin-left: 30px;
+	margin-top: 5px;
+	display: inline-block;
+
+	
+}
+
+.line{
+	width: 1px;
+	height: 30px;
+	display: inline-block;
+	background-color: blue;
+	margin-left: 36px;
+
+
+}
+
+.Youtube{
+	width: 25px;
+	height: 30px;
+    margin-left: 36px;
+    margin-top: 5px;
+    display: inline-block;
+
+}
